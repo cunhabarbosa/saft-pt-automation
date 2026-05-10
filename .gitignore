@@ -38,6 +38,7 @@ release/
 # Keep example config
 !config.example.json
 
+# main_backup.py
 
 # =========================
 # Logs
