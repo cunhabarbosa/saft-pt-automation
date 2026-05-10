@@ -1,0 +1,21 @@
+{
+  "desktop": "C:\\Users\\your_user\\Desktop",
+
+  "emails": {
+    "to": ["example@email.com"],
+    "cc": [],
+    "bcc": []
+  },
+
+  "company_name": "Your Company Name",
+  "nif": "123456789",
+
+  "folders": {
+    "root_path": "C:\\Users\\your_user\\Documents\\Facturacao",
+    "efactura": "e-factura comprovativos",
+    "mapa": "Mapa recapitulativo (mensal)",
+    "saft": "SAFT-PT"
+  },
+
+  "keywords": ["Porto", "S J Madeira"]
+}
